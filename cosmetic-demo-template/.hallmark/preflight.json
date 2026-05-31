@@ -1,0 +1,7 @@
+{
+  "scanned": "2026-05-30",
+  "framework": "Next.js 16 + Tailwind v4 + shadcn",
+  "fonts": "Cormorant Garamond + Outfit (next/font)",
+  "palette": "Hallmark custom OKLCH blush rose (tokens.css)",
+  "motion": "motion-cut"
+}
