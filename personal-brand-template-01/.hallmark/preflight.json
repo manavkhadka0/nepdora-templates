@@ -1,0 +1,8 @@
+{
+  "fontStack": "Anton + Public Sans + JetBrains Mono (next/font/google)",
+  "palette": "Manifesto dark paper + red accent + gold extension tokens (tokens.css)",
+  "motion": "motion-cut — CSS counters, marquee, IntersectionObserver reveals",
+  "spacing": "4pt semantic scale (--space-sm through --space-4xl)",
+  "framework": "Next.js 16 App Router (src/app)",
+  "scannedAt": "2026-05-30"
+}
